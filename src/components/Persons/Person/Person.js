@@ -21,5 +21,5 @@ const person = props => {
 //   click: PropTypes.func,
 //   name: PropTypes.string,
 //   age: PropTypes.number
-// };
+// }
 export default withClass(person, classes.Person);
